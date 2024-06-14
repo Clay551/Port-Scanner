@@ -1,1 +1,44 @@
-import base64;exec(base64.b64decode(bytes('aW1wb3J0IGJhc2U2NDtleGVjKGJhc2U2NC5iNjRkZWNvZGUoYnl0ZXMoJ2FXMXdiM0owSUdKaGMyVTJORHRsZUdWaktHSmhjMlUyTkM1aU5qUmtaV052WkdVb1lubDBaWE1vSjJGWE1YZGlNMG93U1VoT2Rsa3lkR3hrUVhCd1lsaENkbU51VVdkaU0wMW5RMjFzZEdOSE9YbGtRMEl3WVVoS2JGbFhVbkJpYldOTFdtNUtkbUpUUW10WldGSnNaRWRzZEZwVFFuQmlXRUoyWTI1UloxcEhSakJhV0ZKd1lsZFZTMXB1U25aaVUwSnFZako0ZG1OdFJuUlpVMEp3WWxoQ2RtTnVVV2RTYlRsNVdsRndjR0pZUW5aamJsRm5ZMGhzYldGWFpITmFXRkZMWVZjeGQySXpTakJKUjA1MllrYzVlVmxYTVdoRGJUbDZURzVPTldNelVteGlVMmh0U2pKT2MyTjVZMmRoVjFsblpUSTVla3h0TldoaVYxWTVTVVF3T1VsRFpIVmtRMk5uV2xkNGVscFRRVzVaTW5oc1dWaEpia3RSYjB0alNFcHdZbTVSYjFreU9YTmlNMHBvWWxkRmRWSnRPWGxhVXpWVFVsVlJjRU51UWpWYWJXeHVZa2RXTUV4dVFubGhWelV3V0RKYWNGb3llR3hrUTJkcFVWaE9OV0pJVm5SSmFXdExZMGhLY0dKdVVXOVpNamx6WWpOS2FHSlhSWFZTYlRsNVdsTTFTRlZyVmtaVWFXdExZMGhLY0dKdVVXOUphVUZuU1VOQlowbERRV2RKUTBGblNVTkNVV0l6U2pCSlJrNXFXVmMxZFZwWVNXbExVWEIzWTIxc2RXUkRhR3BpTW5oMlkyMUdkRmxUTlVkaU0wcHNUR3hLUmxVd1ZsVkxVWEF3V1ZoS2JscFlVV2RRVTBKd1ltNUNNV1JEWjJsU1Z6VXdXbGhKWjFaSGFHeEpSV3hSVUZRd0swbERTWEJEWjI5TFEyZHdkMk50YkhWa1EyZHVURk5qY1U1RVJYQkRia0o1WVZjMU1FdERaRlJaTWtaMVltMXNkVnA2YjJkS2VVRnlTVWhTYUdOdFpHeGtRMnRMWTBoS2NHSnVVVzlLTVZKd1lsZFZaMVV6VW1oamJsSnNXa1J2WjBwNVFYSkpTRTR3WTJsb2ExbFlVbXhrUjJ4MFdsTTFkV0l6WTI5TFUydHdRMjVDZVdGWE5UQkxRMk4wU25sdk1FMVRhMHREYmtKMlkyNVNla2xFTUdkWE1UQkxRMjFTYkZwcFFucFpNa1oxUzBoQ2RtTnVVWEJQWjI5blNVTkJaMWt5T1hWaWJWWnFaRWRzZG1KcFFUbEpTRTUyV1RKMGJHUkROWHBpTWs1eVdsaFJiMk15T1dwaE1sWXdUR3RHUjFnd2JFOVNWbEZ6U1VoT2Rsa3lkR3hrUXpWVVZEQk9URmd4VGxWVmExWkNWRk5yUzBsRFFXZEpTRTUyV1RKMGJHUkROWHBhV0ZKcldsZGFhR1JYZURCa1IyeDBXbGM1TVdSRFozaExVVzluU1VOQloyUklTalZQWjI5blNVTkJaMGxEUVdkSlIwNTJZbTAxYkZrelVuQmlNalIxV1RJNWRXSnRWbXBrUTJkdlpFZEdlVm95VmpCTVEwSjNZak5LTUV0VGEwdEpRMEZuU1VOQlowbERRbXBpTWpWMVdsZE9NR0ZYT1hWTWJVNXpZak5PYkV0RGEwdEpRMEZuU1VOQlowbERRbmRqYld4MVpFTm9iVW96ZEVkaU0wcHNUR3hrU1ZOV1VrWm1Wa0oyWTI1UloyVXdXblpqYlZWMVZXdFdSV1pXZERkalJ6bDVaRWd4WkdVd1duWmpiVlYxVmpCb1NsWkZWamxKUjJ4NlNVYzVkMXBYTkc1TFVXOW5TVU5CWjBsRFFXZEpTRUoyWTI1U2VreHRSbmRqUjFaMVdrTm9kMkl6U2pCTFVXOW5TVU5CWjFwWWFHcGFXRUl3U1VWV05Ga3lWbmRrUjJ4MlltcHZTMGxEUVdkSlEwRm5TVU5DZDFsWVRucERiazVxV1ZjMWRWcFhVV2RRVTBGM1EyMWFkbU5wUW5kaU0wb3dTVWRzZFVsSVNtaGliV1JzUzBSRmMwbEVXVEZPVkVGM1MxUnZTMGxEUVdkSlNGSnZZMjFXYUZwRFFUbEpTRkp2WTIxV2FGcEhiSFZhZVRWVllVaEtiRmxYVVc5a1IwWjVXakpXTUZCWVRtcFpWelJ6U1VkME0xbFlTbTVqZWpFM1NqTkNkbU51VVc1UGFVSjNZak5LTUdaVGEwdEpRMEZuU1VoU2IyTnRWbWhhUXpWNlpFZEdlV1JEWjNCRGFVRm5TVU5DZWxreVJuVmliVlpyU1VOek9VbEVSVXREYmtKNVlWYzFNRXRIV1c1bE0wNXFXVmMxZFZwWFVqbEpTRUoyWTI1U2VrbElaR3hqYlZWbll6Sk9hR0p0Tld4YVEyTndRMjVDZVdGWE5UQkxRMlIyWTBkV2RVbElRblpqYmxKNlQybEJia2xEYzJkU2JUbDVXbE0xU0ZWclZrWlVhVUZ5U1VoT01HTnBhSGRpTTBvd1kzbHJjQ2NzSjFWVVJpMDRKeWtwTG1SbFkyOWtaU2dwS1E9PScsJ1VURi04JykpLmRlY29kZSgpKQ==','UTF-8')).decode())
+import socket
+import os 
+import threading
+from datetime import datetime
+from colorama import Fore
+import pyfiglet
+import colorama
+os.system(f'cls' if {os.name} == 'nt' else 'clear')
+
+print(colorama.Fore.RED)
+pyfiglet.print_figlet("Asylum")
+print(colorama.Fore.GREEN)
+print("             Port Scanner")
+print(colorama.Fore.RESET)
+target = input("Enter The IP==> ")
+
+
+
+
+print('-'*41)
+print('Scanning: ' + target)
+print('Time Started: ' + str(datetime.now()))
+print('-'*41)
+
+ports = []
+
+def scan(port):
+    connection = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    socket.setdefaulttimeout(1)
+    try:
+        connection.connect((target, port))
+        connection.close()
+        print(f'{Fore.WHITE}Port {Fore.RED}[{port}]{Fore.WHITE} is open')
+        ports.append(port)
+    except Exception:
+        pass
+scanned = 0
+for port in range(1, 65500):
+    thread = threading.Thread(target=scan, kwargs={'port': port})
+    thread.start()
+    scanned += 1
+
+print(f'{scanned} ports were scanned')
+print('open ports: ' + Fore.GREEN + str(ports))#  
