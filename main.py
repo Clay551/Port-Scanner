@@ -1,21 +1,19 @@
 import socket
-import os 
+import os
 import threading
 from datetime import datetime
 from colorama import Fore
 import pyfiglet
 import colorama
-os.system(f'cls' if {os.name} == 'nt' else 'clear')
 
-print(colorama.Fore.RED)
+os.system('cls' if os.name == 'nt' else 'clear')
+
+print(Fore.RED)
 pyfiglet.print_figlet("Asylum")
-print(colorama.Fore.GREEN)
+print(Fore.GREEN)
 print("             Port Scanner")
-print(colorama.Fore.RESET)
+print(Fore.RESET)
 target = input("Enter The IP==> ")
-
-
-
 
 print('-'*41)
 print('Scanning: ' + target)
@@ -34,6 +32,7 @@ def scan(port):
         ports.append(port)
     except Exception:
         pass
+
 scanned = 0
 for port in range(1, 65500):
     thread = threading.Thread(target=scan, kwargs={'port': port})
@@ -41,4 +40,5 @@ for port in range(1, 65500):
     scanned += 1
 
 print(f'{scanned} ports were scanned')
-print('open ports: ' + Fore.GREEN + str(ports))#  
+print('Open ports: ' + Fore.GREEN + str(ports))
+print(colorama.Fore.RESET)
