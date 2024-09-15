@@ -1,5 +1,3 @@
-socket
-threading
-datetime
+os
 colorama
 pyfiglet
